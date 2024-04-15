@@ -70,8 +70,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
+git clone https://github.com/abhijaronkar/Brain-Landing-Page.git
+cd Brain-Landing-Page
 ```
 
 **Installation**
